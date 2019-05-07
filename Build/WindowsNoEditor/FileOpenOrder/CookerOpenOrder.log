@@ -1,0 +1,469 @@
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 0
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 1
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 2
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 3
+"E:/Unreal Projects/BattleTank/Content/Tank/tank_fbx_Barrel.uasset" 4
+"E:/Unreal Projects/BattleTank/Content/Tank/tank_fbx_Track.uasset" 5
+"E:/Unreal Projects/BattleTank/Content/Tank/tank_fbx_Turret.uasset" 6
+"E:/Unreal Projects/BattleTank/Content/Tank/tank_fbx_Body.uasset" 7
+"E:/Unreal Projects/BattleTank/Content/Tank/Tank_BP.uasset" 8
+"E:/Unreal Projects/BattleTank/Content/GameUI/PlayerUI.uasset" 9
+"E:/Unreal Projects/BattleTank/Content/TankPlayerController_BP.uasset" 10
+"E:/Unreal Projects/BattleTank/Content/MyBattleTankGameModeBase_BP.uasset" 11
+"E:/Unreal Projects/BattleTank/Content/GameUI/MM_Widget.uasset" 12
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Basic_Floor.uasset" 13
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Architecture/Floor_400x400.uasset" 14
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Basic_Wall.uasset" 15
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Architecture/Pillar_50x500.uasset" 16
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_AssetPlatform.uasset" 17
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 18
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Architecture/Wall_400x200.uasset" 19
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Architecture/Wall_400x300.uasset" 20
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Architecture/Wall_400x400.uasset" 21
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Architecture/Wall_500x500.uasset" 22
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 23
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 24
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 25
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 26
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Audio/Collapse01.uasset" 27
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Audio/Collapse02.uasset" 28
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Audio/Collapse_Cue.uasset" 29
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Audio/Explosion01.uasset" 30
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Audio/Explosion02.uasset" 31
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Audio/Fire01.uasset" 32
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Audio/Fire_Sparks01.uasset" 33
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Audio/Light01.uasset" 34
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Audio/Light01_Cue.uasset" 35
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Audio/Light02.uasset" 36
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Audio/Light02_Cue.uasset" 37
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Audio/Smoke01.uasset" 38
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 39
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Audio/Starter_Birds01.uasset" 40
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Audio/Starter_Music01.uasset" 41
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 42
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Audio/Starter_Wind05.uasset" 43
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Audio/Starter_Wind06.uasset" 44
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Audio/Steam01.uasset" 45
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Lamp_M.uasset" 46
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Lamp_N.uasset" 47
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Props/Materials/M_Lamp.uasset" 48
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 49
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 50
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Audio/Explosion_Cue.uasset" 51
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Burst_M.uasset" 52
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Particles/Materials/M_Burst.uasset" 53
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 54
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 55
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 56
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 57
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 58
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 59
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 60
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 61
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Particles/P_Explosion.uasset" 62
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 63
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Audio/Fire01_Cue.uasset" 64
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 65
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 66
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 67
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Water_N.uasset" 68
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 69
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 70
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Particles/P_Fire.uasset" 71
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 72
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Audio/Smoke01_Cue.uasset" 73
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Particles/P_Smoke.uasset" 74
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 75
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 76
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Spark_Core.uasset" 77
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Particles/Materials/M_Spark.uasset" 78
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Particles/P_Sparks.uasset" 79
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 80
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Audio/Steam01_Cue.uasset" 81
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Particles/P_Steam_Lit.uasset" 82
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 83
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 84
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 85
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 86
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 87
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 88
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 89
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 90
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 91
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 92
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 93
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 94
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 95
+"E:/Unreal Projects/BattleTank/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 96
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 97
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 98
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 99
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 100
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_MacroVariation.uasset" 101
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 102
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 103
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 104
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 105
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 106
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 107
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 108
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 109
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 110
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 111
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 112
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 113
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 114
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 115
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 116
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 117
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 118
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 119
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 120
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 121
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 122
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 123
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 124
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 125
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 126
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 127
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 128
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Gradinet_01.uasset" 129
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 130
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 131
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 132
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 133
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 134
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 135
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 136
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 137
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 138
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 139
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 140
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 141
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 142
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 143
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 144
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 145
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 146
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 147
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 148
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 149
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 150
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 151
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 152
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 153
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Ground_Grass.uasset" 154
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 155
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 156
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 157
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 158
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 159
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Ground_Moss.uasset" 160
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 161
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 162
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 163
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 164
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 165
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 166
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Metal_Copper.uasset" 167
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 168
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Metal_Gold.uasset" 169
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 170
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 171
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Metal_Rust.uasset" 172
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 173
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 174
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Metal_Steel.uasset" 175
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 176
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 177
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 178
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 179
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 180
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 181
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 182
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 183
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 184
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Rock_Slate.uasset" 185
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 186
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 187
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 188
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 189
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 190
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 191
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 192
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 193
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 194
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 195
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 196
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Tech_Panel.uasset" 197
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Water_Lake.uasset" 198
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Water_M.uasset" 199
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Water_Ocean.uasset" 200
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 201
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 202
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 203
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 204
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 205
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 206
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 207
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 208
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Wood_Oak.uasset" 209
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 210
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 211
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Wood_Pine.uasset" 212
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 213
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 214
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 215
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 216
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 217
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 218
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Props/MaterialSphere.uasset" 219
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Bush_D.uasset" 220
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Bush_N.uasset" 221
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Props/Materials/M_Bush.uasset" 222
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Props/SM_Bush.uasset" 223
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Chair_M.uasset" 224
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Chair_N.uasset" 225
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Props/Materials/M_Chair.uasset" 226
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Props/SM_Chair.uasset" 227
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Frame_M.uasset" 228
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Frame_N.uasset" 229
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Props/Materials/M_Frame.uasset" 230
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Props/SM_CornerFrame.uasset" 231
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Props/SM_Couch.uasset" 232
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Materials/M_Glass.uasset" 233
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Door_M.uasset" 234
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Door_N.uasset" 235
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Props/Materials/M_Door.uasset" 236
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Props/SM_Door.uasset" 237
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Props/SM_DoorFrame.uasset" 238
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Props/SM_GlassWindow.uasset" 239
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 240
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 241
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 242
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Props/SM_PillarFrame.uasset" 243
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Props/SM_PillarFrame300.uasset" 244
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_RockMesh_M.uasset" 245
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_RockMesh_N.uasset" 246
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Props/Materials/M_Rock.uasset" 247
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Props/SM_Rock.uasset" 248
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Shelf_M.uasset" 249
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Shelf_N.uasset" 250
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Props/Materials/M_Shelf.uasset" 251
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Props/SM_Shelf.uasset" 252
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Props/SM_Stairs.uasset" 253
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Statue_M.uasset" 254
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_Statue_N.uasset" 255
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Props/Materials/M_Statue.uasset" 256
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 257
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Props/SM_Statue.uasset" 258
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_TableRound_M.uasset" 259
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Textures/T_TableRound_N.uasset" 260
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Props/Materials/M_TableRound.uasset" 261
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Props/SM_TableRound.uasset" 262
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Props/SM_WindowFrame.uasset" 263
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Shapes/Shape_Cone.uasset" 264
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Shapes/Shape_Cube.uasset" 265
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 266
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 267
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Shapes/Shape_Pipe.uasset" 268
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 269
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 270
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Shapes/Shape_Plane.uasset" 271
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 272
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Shapes/Shape_Sphere.uasset" 273
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Shapes/Shape_Torus.uasset" 274
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Shapes/Shape_Trim.uasset" 275
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 276
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 277
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 278
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Shapes/Shape_Tube.uasset" 279
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 280
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 281
+"E:/Unreal Projects/BattleTank/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 282
+"E:/Unreal Projects/BattleTank/Content/Tank/tank_green.uasset" 283
+"E:/Unreal Projects/BattleTank/Content/Tank/tank_green_001.uasset" 284
+"E:/Unreal Projects/BattleTank/Content/Tank/tank_green_002.uasset" 285
+"E:/Unreal Projects/BattleTank/Content/Tank/track_001.uasset" 286
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 287
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 288
+"../../../Engine/Content/BasicShapes/Cone.uasset" 289
+"../../../Engine/Content/BasicShapes/Cube.uasset" 290
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 291
+"../../../Engine/Content/BasicShapes/Plane.uasset" 292
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 293
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 294
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 295
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 296
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 297
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 298
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 299
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 300
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 301
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 302
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 303
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 304
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 305
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 306
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 307
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 308
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 309
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 310
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 311
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 312
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 313
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 314
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 315
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 316
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 317
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 318
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 319
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 320
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 321
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 322
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 323
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 324
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 325
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 326
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 327
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 328
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 329
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 330
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 331
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 332
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 333
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 334
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 335
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 336
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 337
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 338
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 339
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 340
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 341
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 342
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 343
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 344
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 345
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 346
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 347
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 348
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 349
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 350
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 351
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 352
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 353
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 354
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 355
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 356
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 357
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 358
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 359
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 360
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 361
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 362
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 363
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 364
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 365
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 366
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 367
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 368
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 369
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 370
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 371
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 372
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 373
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 374
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 375
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 376
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 377
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 378
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 379
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 380
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 381
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 382
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 383
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 384
+"../../../Engine/Content/EngineResources/Black.uasset" 385
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 386
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 387
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 388
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 389
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 390
+"../../../Engine/Content/EngineSounds/Master.uasset" 391
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 392
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 393
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 394
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 395
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 396
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 397
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 398
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 399
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 400
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 401
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 402
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 403
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 404
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 405
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 406
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 407
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 408
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 409
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 410
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 411
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 412
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 413
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 414
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 415
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 416
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 417
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 418
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 419
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 420
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 421
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 422
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 423
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 424
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 425
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 426
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 427
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 428
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 429
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 430
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 431
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 432
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 433
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 434
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 435
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 436
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 437
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 438
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 439
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 440
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 441
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 442
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 443
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 444
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 445
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 446
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 447
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 448
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 449
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 450
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 451
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 452
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 453
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 454
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 455
+"E:/Unreal Projects/BattleTank/Content/BattleGround_sharedassets/Grass_LayerInfo.uasset" 456
+"E:/Unreal Projects/BattleTank/Content/BattleGround_sharedassets/Rocks_LayerInfo.uasset" 457
+"E:/Unreal Projects/BattleTank/Content/BattleGround_BuiltData.uasset" 458
+"E:/Unreal Projects/BattleTank/Content/Landscape.uasset" 459
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 460
+"E:/Unreal Projects/BattleTank/Content/BattleGround.umap" 461
+"E:/Unreal Projects/BattleTank/Content/GameUI/boomtankPG.uasset" 462
+"E:/Unreal Projects/BattleTank/Content/GameUI/boomtankPG_Font.uasset" 463
+"E:/Unreal Projects/BattleTank/Content/GameUI/IMG_4432.uasset" 464
+"E:/Unreal Projects/BattleTank/Content/GameUI/MainMenu_BP.uasset" 465
+"E:/Unreal Projects/BattleTank/Content/_Levels/MainMenu.umap" 466
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 467
+"../../../Engine/Content/Maps/Entry.umap" 468
