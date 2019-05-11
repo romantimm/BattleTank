@@ -5,8 +5,6 @@
 void UTankBarrel::ElevateBarrel(float RelativeSpeed)
 {
 	//move the barrel the right amound this frame
-
-
 	//given a max elevation SPEED, and the frame time
 	RelativeSpeed = FMath::Clamp<float>(RelativeSpeed, -1, 1);
 	auto ElevationCHange = RelativeSpeed * MaxDegressPerSecond * GetWorld()->DeltaTimeSeconds;

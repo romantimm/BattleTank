@@ -25,6 +25,7 @@ private:
 
 	UPROPERTY(EditAnywhere, Category = Setup)
 	float MaxElevationDegress = 40.f;
+
 	UPROPERTY(EditAnywhere, Category = Setup)
 	float MinElevationDegress = 0;
 };
