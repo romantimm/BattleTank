@@ -7,7 +7,8 @@
 #include "GameFramework/Pawn.h"
 #include "Tank.generated.h"
 
-class UTankBarrel;
+//class UTankBarrel;
+//class UTankTurret;
 class UTankAimingComponent;
 
 
@@ -23,6 +24,9 @@ public:
 	UFUNCTION(BlueprintCallable, Category = Setup)
 	void SetBarrelReference(UTankBarrel* BarrelToSet);
 
+	UFUNCTION(BlueprintCallable, Category = Setup)
+	void SetTurretReference(UTankTurret* TurretToSet);
+
 	void AimAt(FVector HitLocation);
 
 protected:
@@ -37,5 +41,5 @@ public:
 private:
 
 	UPROPERTY(EditAnywhere, Category = Firing)
-	float LaunchSpeed = 100000; //Sensible firing range of 1000 m/s
+	float LaunchSpeed = 4000.0; //Sensible firing range of 1000 m/s
 };
