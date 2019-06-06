@@ -60,11 +60,11 @@ bool ATankPlayerController::GetSightHitLocation(FVector& OutHitLocation)
 	if (DeprojectScreenPositionToWorld(CHScreenLocation.X, CHScreenLocation.Y, CameraWorldLocation, LookDirection))
 	{
 		// Line trace along the WorldLocation
-		GetLookVectorHitLocation(LookDirection, OutHitLocation);
+		return GetLookVectorHitLocation(LookDirection, OutHitLocation);
 	}
 
 
-	return true;
+	return false;
 }
 
 bool ATankPlayerController::GetLookVectorHitLocation(FVector LookDirection, FVector& OutHitLocation) const
